@@ -47,7 +47,7 @@ You can also download the raw dataset from Kaggle here:
 
 - Determine which audio features most strongly influence popularity,  
 - Compare regression models taught in the course,   
-- Evaluate models using RMSE, MAE, and R-squared,   
+- Evaluate models using Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and R-squared,   
 - Identify the best-performing model,  
 - Provide insights for music analytics and recommendation systems.
 
@@ -98,7 +98,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 If you reference this project, please cite:
 
-Olsen, A. N. (2026). *Spotify Song Popularity Prediction using Machine Learning*. GitHub repository.
+Olsen, A. N. (2026). *Predicting Song Popularity Using Machine Learning*. GitHub repository.
 
 
 
