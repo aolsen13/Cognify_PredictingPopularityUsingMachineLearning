@@ -65,13 +65,14 @@ This project uses models covered in the Machine Learning course, including:
 
 ## Files Included
 
+- data/
+  - `SpotifyTracksDataset.Popular.csv`
 - notebooks/
   - `01_Introduction_and_EDA.ipynb`
   - `02_Preprocessing_and_Modeling.ipynb`
   - `03_Evaluation_and_Conclusion.ipynb`
 - slides/
   - `SpotifyPopularityPredictionSlides.pdf`
-- `SpotifyTracksDataset.Popular.csv`
 - `README.md`
 - `LICENSE`
 
